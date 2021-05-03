@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b968d1</color>
+    <!--
+        <color name="colorPrimaryDark">#683dbd</color>
+    -->
+
+
+    <color name="colorPrimaryDark">#B442D6</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <!--
+        <color name="toolbar">#8f53e9</color>
+    -->
+
+    <color name="toolbar">@color/app_red</color>
+
+    <color name="red">#CA0909</color>
+    <color name="blue">#5D75DE</color>
+    <color name="green">#19D455</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+
+    <color name="grey">#979798</color>
+    <color name="grey_dark">#535353</color>
+    <color name="grey_light">#E7E7E7</color>
+    <color name="grey_bg">#f8f8f8</color>
+    <color name="grey_bg_splash">#f7f7f7</color>
+
+
+    <color name="fb">#067cdd</color>
+    <color name="google">#ee425c</color>
+
+
+    <color name="app_red">#f3415c</color>
+    <color name="light_dark">#666666</color>
+    <color name="color_red_light_thin">#4AF3415C</color>
+
+
+</resources>
